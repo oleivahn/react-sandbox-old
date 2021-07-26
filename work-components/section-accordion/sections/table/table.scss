@@ -1,0 +1,83 @@
+.linkPopperPaper {
+  padding: 16px;
+}
+
+div.toolBar > div:first-child {
+  background: linear-gradient(60deg, #1c2b36, #32a6ad);
+  box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14),
+    0 6px 5px rgba(0, 238, 255, 0.144) !important;
+  font-size: 24px;
+  h6 {
+    color: #ffffff;
+    min-height: auto;
+    font-weight: 300;
+    text-decoration: none;
+  }
+}
+
+.addButton {
+  color: white !important;
+}
+
+.mTable {
+  max-width: 100%;
+  padding-top: 10px;
+}
+
+.tableCell {
+  width: max-content;
+  min-width: 100px;
+  max-width: 900px;
+}
+
+.innerTableText {
+  padding: 8px;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.tableEditField {
+  width: stretch;
+  width: 100%;
+  width: -moz-available; /* WebKit-based browsers will ignore this. */
+  width: -webkit-fill-available;
+  min-width: max-content;
+}
+
+.tableHeader {
+  display: none;
+}
+
+.addButtonText {
+  padding-right: 8px;
+}
+
+.editButton {
+  font-size: 21px !important;
+}
+
+.editButtonText {
+  padding-right: 12px;
+  padding-left: 4px;
+}
+
+.alignCenter {
+  text-align: center;
+}
+
+.alignRight {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.tableBottom {
+  border-bottom: 1px solid rgba(224, 224, 224, 1);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(224, 224, 224);
+}
+
+.textField {
+  width: 100%;
+  margin-bottom: 3px;
+}

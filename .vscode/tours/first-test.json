@@ -1,0 +1,21 @@
+{
+  "title": "first test",
+  "description": "Testing the new extension",
+  "steps": [
+    {
+      "file": "src/index.tsx",
+      "line": 5,
+      "description": "App entry point"
+    },
+    {
+      "file": "src/components/app/App.tsx",
+      "line": 20,
+      "description": "Use React Router to create the urls for the nav menu I created"
+    },
+    {
+      "file": "src/components/app/App.tsx",
+      "line": 24,
+      "description": "Call in the Admin menu, which loads on the left side of the browser. Each one of those options is a route loaded on the left part of the screen on the browser"
+    }
+  ]
+}

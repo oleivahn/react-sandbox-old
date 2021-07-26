@@ -1,0 +1,38 @@
+[
+  {
+    "id": "170a723c0bb8ed881",
+    "name": "New Summaries Section",
+    "type": "summaries",
+    "count": "3",
+    "summaryType": "latest",
+    "remarksCount": "3",
+    "sectionTitle": "GEOINT Summaries"
+  },
+  {
+    "id": "170a723ddaf224b5e",
+    "name": "New Summaries Section",
+    "type": "summaries",
+    "count": "3",
+    "summaryType": "latest",
+    "remarksCount": "3",
+    "sectionTitle": "GEOINT Summaries"
+  },
+  {
+    "id": "170a72421754fe9dd",
+    "name": "New Summaries Section",
+    "type": "summaries",
+    "count": "3",
+    "summaryType": "latest",
+    "remarksCount": "3",
+    "sectionTitle": "GEOINT Summaries"
+  },
+  {
+    "id": "170a72421754fe9dd",
+    "name": "New Summaries Section",
+    "type": "summaries",
+    "count": "3",
+    "summaryType": "latest",
+    "remarksCount": "3",
+    "sectionTitle": "GEOINT Summaries"
+  }
+]
